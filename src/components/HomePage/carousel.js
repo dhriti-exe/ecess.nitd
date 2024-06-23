@@ -1,8 +1,8 @@
 import React, { useState , useEffect } from 'react'
-import logo from './pcb1.jpg'
-import img1 from './ecedepartment1.jpeg'
-import img2 from './ecedepartment2.jpeg'
-import img3 from './ecedepartment3.jpeg'
+// import logo from './pcb1.jpg'
+import img1 from '../../asserts/ecedepartment1.jpeg'
+import img2 from '../../asserts/ecedepartment2.jpeg'
+import img3 from '../../asserts/ecedepartment3.jpeg'
 import 'pure-react-carousel/dist/react-carousel.es.css' ;
 import './carousel.css'
 function Carousel() {

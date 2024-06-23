@@ -5,7 +5,7 @@ import Home from '../HomePage/Home'
 import AboutUs from '../AboutusPage/AboutUs'
 import Team from '../TeamPage/Team'
 import Faculty from '../FacultyPage/Faculty'
-import logo from '../ecess-logo.png'
+import logo from '../../asserts/ecess-logo.png'
 
 function Navbar() {
  

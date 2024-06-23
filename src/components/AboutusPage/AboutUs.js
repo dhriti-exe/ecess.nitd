@@ -1,11 +1,11 @@
 import React from 'react'
 import './AboutUs.css'
-import pcb from './pcb-workshop.jpg'
-import vlsi from './vlsi-workshop.jpg'
-import tk1 from './talk_show1.jpg'
-import tk2 from './talk_show2.jpg'
-import tk3 from './talk_show3.jpg'
-import pic from '../HomePage/pcb5.jpg'
+import pcb from '../../asserts/pcb-workshop.jpg'
+import vlsi from '../../asserts/vlsi-workshop.jpg'
+import tk1 from '../../asserts/talk_show1.jpg'
+import tk2 from '../../asserts/talk_show2.jpg'
+import tk3 from '../../asserts/talk_show3.jpg'
+// import pic from '../HomePage/pcb5.jpg'
 function AboutUs() {
   return (
     <div className='rabout'>
@@ -31,14 +31,15 @@ function AboutUs() {
             <img src={vlsi} alt='vlsi' className="rEventcard-img" />
             <h1 className="rEventcard-title">VLSI WORKSHOP</h1>
             <p className="rEventcard-description">Have you ever thought that VLSI circuits are used everywhere in our lives, including microprocessors in a computer, digital camera, and safety systems like anti-lock braking systems in an automobile.
-This is an interesting stuff that makes everyone interested in it.
-Are you also Interested??
+              This is an interesting stuff that makes everyone interested in it.
+              Are you also Interested??
 
-ECESS, NIT DURGAPUR brings you the opportunity to learn this with 5 day VLSI workshop. You didn't need any prior knowlege.
-Don't miss the opportunity!!
-Date: 5,6,17,18,19 April 2023
-Time: 6:00PM - 7:30PM 
-Venue: EC31, 2rd floor.</p>
+              ECESS, NIT DURGAPUR brings you the opportunity to learn this with 5 day VLSI workshop. You didn't need any prior knowlege.
+              Don't miss the opportunity!!
+              Date: 5,6,17,18,19 April 2023
+              Time: 6:00PM - 7:30PM 
+              Venue: EC31, 2rd floor.
+            </p>
             <a href='' className="rEventcard-btn"> Know More </a>
           </div>
           <div className="rEventcard-container">

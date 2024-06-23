@@ -1,9 +1,9 @@
 import React from 'react'
 import './home.css'
-import logo from '../ecess-logo.png'
-import pcb1 from './pcb1.jpg'
-import pcb5 from './pcb5.jpg'
-import bg from './background.jpg'
+import logo from '../../asserts/ecess-logo.png'
+// import pcb1 from './pcb1.jpg'
+// import pcb5 from './pcb5.jpg'
+// import bg from './background.jpg'
 import Carousel from './carousel'
 import MainCarousel from '../mainCarousel/mainCarousel'
 function Home() {
