@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes , Route , Link } from "react-router-dom
 import './Navbar.css'
 import Home from '../HomePage/Home'
 import AboutUs from '../AboutusPage/AboutUs'
-import Team from '../TeamPage/Team'
+import Team from '../TeamPage/TeamSection'
 import Faculty from '../FacultyPage/Faculty'
 import logo from '../../asserts/ecess-logo.png'
 

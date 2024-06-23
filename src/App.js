@@ -1,10 +1,10 @@
-
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Home from './components/HomePage/Home';
 import Navbar from './components/Navbar/Navbar'
 import { useState , useEffect } from 'react';
 import GridLoader from "react-spinners/GridLoader"
+import 'remixicon/fonts/remixicon.css';
 function App() {
 
  const [loading,setloading] = useState(false);
